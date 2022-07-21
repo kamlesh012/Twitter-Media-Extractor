@@ -2,12 +2,12 @@ from flask import Flask,redirect, url_for,render_template,request
 import tweepy
 
 # Authorization Keys
-consumer_key = "X33oJsss0mKa4TO4Zc44Qt1sg" 
-consumer_secret = "fOaUPsrqLC5cskelulnzaR9Lns2eYBSS7VDKaeJ4TRFiaHQWUW"
-access_key = "1441420359652175873-BAPe0qmNgoyYFZ7O8xsPdyiouW1Qp8"
-access_secret = "B9OBfXPg0EAnwXwGzE4uLm6jaD7QlJhH0qKRASgp3h0jW"
+consumer_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" 
+consumer_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 callback_uri='oob'
-# app = Flask(__name__,template_folder='./templates',static_folder='./css')
+
 app=Flask(__name__)
 
 def get_auth():
