@@ -1,0 +1,25 @@
+h1{
+	    font-family: 'Montserrat', sans-serif;
+	    font-size:2rem;
+}
+
+body{
+		text-align: center;
+	/*background-image:url("{{LOGO.png}}");*/
+}
+form{
+	position:relative;
+	
+}
+
+/*url(<a href='https://www.freepik.com/photos/twitter'>Twitter photo created by bycgzr - www.freepik.com</a>)*/
+img{
+	display:inline-block;
+	position: relative;
+	height: 20rem;
+	width: 20rem;
+	margin :auto auto;
+}
+p{
+	font-family: 'Sacramento', cursive;
+}

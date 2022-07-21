@@ -1,0 +1,1140 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"about"
+			],
+			[
+				"m",
+				"mySqrt"
+			],
+			[
+				"co",
+				"computeXOR"
+			],
+			[
+				"stdi",
+				"stdio.h"
+			],
+			[
+				"bit",
+				"bitsubset"
+			],
+			[
+				"str",
+				"stringsubset"
+			],
+			[
+				"De",
+				"DecimalToBinary"
+			],
+			[
+				"ma",
+				"math.h"
+			],
+			[
+				"rev",
+				"revstr"
+			],
+			[
+				"mem",
+				"memo"
+			],
+			[
+				"vecto",
+				"vector"
+			],
+			[
+				"solev",
+				"solve2"
+			],
+			[
+				"sort",
+				"sortbysec"
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			],
+			[
+				"hash",
+				"hashfunc"
+			],
+			[
+				"solv",
+				"solve2"
+			],
+			[
+				"buck",
+				"bucketarray"
+			],
+			[
+				"Pr",
+				"PrimeSieve"
+			],
+			[
+				"T",
+				"TriDiagonal"
+			],
+			[
+				"d",
+				"digiSum"
+			],
+			[
+				"i",
+				"isPrime"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"min",
+				"min"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"nums",
+				"nums1"
+			],
+			[
+				"vect",
+				"vect"
+			],
+			[
+				"vec",
+				"vect"
+			],
+			[
+				"re",
+				"releaseTimes"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"vector",
+				"vector\tstd::vector"
+			],
+			[
+				"f",
+				"file_base_name"
+			],
+			[
+				"fi",
+				"file_base_name"
+			],
+			[
+				"AR",
+				"AR"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"Chips",
+				"Chips"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"pl",
+				"playing"
+			],
+			[
+				"chips",
+				"player_chips"
+			],
+			[
+				"show",
+				"show_all"
+			],
+			[
+				"dealer",
+				"dealer_hand"
+			],
+			[
+				"player",
+				"player_hand"
+			],
+			[
+				"dea",
+				"dealer_hand"
+			],
+			[
+				"w",
+				"win_bet"
+			],
+			[
+				"de",
+				"deck"
+			],
+			[
+				"ca",
+				"card"
+			],
+			[
+				"dec",
+				"deck_comp"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"Ban",
+				"balance"
+			],
+			[
+				"wih",
+				"withdraw"
+			],
+			[
+				"c",
+				"coordinate2"
+			],
+			[
+				"x2",
+				"x2"
+			],
+			[
+				"y1",
+				"y1"
+			],
+			[
+				"VOlu",
+				"volume"
+			],
+			[
+				"S",
+				"Slod"
+			],
+			[
+				"mo",
+				"Mobile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.html",
+			"settings":
+			{
+				"buffer_size": 585,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/HOME/Desktop/BETA/Project_Beta.py",
+			"settings":
+			{
+				"buffer_size": 1611,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "home.html",
+			"settings":
+			{
+				"buffer_size": 695,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/HOME/Desktop/BETA/Delete.py",
+			"settings":
+			{
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/CPP_RUN.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CPP_RUN.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/CPP_RUN.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CPP_RUN.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/CPP_RUN.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++14.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++17.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CPP_RUN.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CPP_RUN.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/CPP_RUN.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bu",
+				"Build: Cancel"
+			],
+			[
+				"snippe",
+				"Snippet: #ifndef … #define … #endif"
+			],
+			[
+				"Snippet: ",
+				"Snippet: template <typename ${1:_InputIter}>"
+			],
+			[
+				"bui",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"biu",
+				"Build: Cancel"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"BU",
+				"Build: Cancel"
+			],
+			[
+				"buican",
+				"Build: Cancel"
+			],
+			[
+				"buca",
+				"Build: Cancel"
+			],
+			[
+				"buc",
+				"Build: Cancel"
+			],
+			[
+				"nu",
+				"Convert Case: Upper Case"
+			],
+			[
+				"syntaxc",
+				"Set Syntax: C++"
+			],
+			[
+				"u",
+				"UI: Customize Theme"
+			],
+			[
+				"BUI",
+				"Build: Cancel"
+			],
+			[
+				"Snippet: cp",
+				"Snippet: CP_temp"
+			],
+			[
+				"snippetcp",
+				"Snippet: CP_temp"
+			],
+			[
+				"nippet",
+				"Terminal: Open in project folder"
+			],
+			[
+				"ub",
+				"SublimeInput: Build"
+			],
+			[
+				"b",
+				"Build: Cancel"
+			],
+			[
+				"setsyntac",
+				"Set Syntax: C++"
+			],
+			[
+				"buil",
+				"Build: Cancel"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"",
+				"ApplySyntax: Browse Syntaxes"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ne",
+				"Snippet: Namespace"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"setsyntax",
+				"ApplySyntax: Copy Current Syntax to Clipboard"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeInput: Build"
+			],
+			[
+				"sublime ",
+				"Preferences: SublimeInput Settings – User"
+			],
+			[
+				"sublime input buil",
+				"Preferences: SublimeInput Key Bindings – Default"
+			],
+			[
+				"install p\t",
+				"Package Control: Install Package"
+			],
+			[
+				"apply",
+				"ApplySyntax: Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"os.getenv(\"PATH\")",
+			"getenv(C:\\Users\\HOME\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\HOME\\AppData\\Local\\Programs\\Python\\Python37-32\\;%PyCharm Community Edition%;C:\\MinGW\\bin;C:\\Users\\HOME\\AppData\\Local\\Programs\\Microsoft VS Code\\bin)",
+			"getenv",
+			"runos",
+			"23"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/HOME/Desktop/BETA"
+	],
+	"file_history":
+	[
+		"/C/Users/HOME/Desktop/BETA/Development.sublime-workspace",
+		"/C/Users/HOME/Desktop/Flask/1_FlaskTut.py",
+		"/C/Users/HOME/Desktop/BETA/templates/style.css",
+		"/C/Users/HOME/Desktop/BETA/templates/login.html",
+		"/C/Users/HOME/Desktop/BETA/templates/home.html",
+		"/C/Users/HOME/Desktop/BETA/templates/about.html",
+		"/C/Users/HOME/Desktop/BETA/Project_Beta.py",
+		"/C/Users/HOME/Desktop/Flask/Requests.py",
+		"/C/Users/HOME/Desktop/Flask/Project_Beta.py",
+		"/C/Users/HOME/Desktop/Flask/templates/about.html",
+		"/C/Users/HOME/Desktop/Flask/templates/style.css",
+		"/C/Users/HOME/Desktop/Flask/templates/login.html",
+		"/C/Users/HOME/Desktop/Flask/templates/home.html",
+		"/C/Users/HOME/Desktop/Flask/PC Project/4.py",
+		"/C/Users/HOME/Desktop/Flask/PC Project/templates/login.html",
+		"/I/Flask/Tweepy/functional_extractor.py",
+		"/E/April2021CODE/#CP_Main.cpp",
+		"/D/April2021CODE/__CP/inputf.in",
+		"/D/April2021CODE/__CP/outputf.in",
+		"/D/April2021CODE/__CP/CF_Main.cpp",
+		"/D/April2021CODE/CountInversions.cpp",
+		"/D/April2021CODE/__CP/AtCoder_Temp.cpp",
+		"/D/April2021CODE/__CP/DElete.c",
+		"/D/April2021CODE/__CP/CC2.cpp",
+		"/C/Users/HOME/AppData/Roaming/Sublime Text 3/Packages/User/CP_temp.sublime-snippet",
+		"/D/April2021CODE/__CP/Delete.cpp",
+		"/C/Users/HOME/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/April2021CODE/__CP/CSES.cpp",
+		"/D/April2021CODE/__CP/EKO_BinarySearch.cpp",
+		"/D/April2021CODE/__CP/GenerateBinaryNumbers.cpp",
+		"/D/April2021CODE/__CP/GenerateSubsets.cpp",
+		"/D/April2021CODE/__CP/CF_Div3.cpp",
+		"/D/April2021CODE/__CP/OOP_Practice.cpp",
+		"/D/April2021CODE/__CP/TLE_BinarySearch.cpp",
+		"/D/April2021CODE/__CP/dELETEteST.C",
+		"/D/April2021CODE/__CP/SquareRoot_BinarySearch.cpp",
+		"/D/April2021CODE/__CP/Old_CodeChef/Finding_Square_Roots.cpp",
+		"/D/April2021CODE/__CP/BinarySearch.cpp",
+		"/D/April2021CODE/__CP/NearestBinaryPalindormicNumber.cpp",
+		"/D/April2021CODE/__CP/741C_Rings_1500.cpp",
+		"/D/April2021CODE/__CP/Test2.c",
+		"/D/April2021CODE/__CP/Test.C",
+		"/D/April2021CODE/__CP/VKCup2.cpp",
+		"/C/Users/HOME/Desktop/C.cpp",
+		"/D/April2021CODE/Sublime21/3_RecursionAugust/2_ArrayAverage.cpp",
+		"/D/April2021CODE/Sublime21/3_RecursionAugust/1_CountVowels.cpp",
+		"/D/April2021CODE/__CP/Next_Permutation.cpp",
+		"/D/April2021CODE/__CP/419_Div2_KarenAndCoffee.cpp",
+		"/D/April2021CODE/__CP/443A_BoryasDiagnosis_Implementation.cpp",
+		"/D/April2021CODE/__CP/Deal.c",
+		"/D/April2021CODE/__CP/USACO.cpp",
+		"/D/April2021CODE/__CP/DEL.cpp",
+		"/D/April2021CODE/__CP/MinCoins.cppp.cpp",
+		"/D/April2021CODE/__CP/Deal1.c",
+		"/D/April2021CODE/__CP/PCSVIVADel.c",
+		"/D/April2021CODE/__CP/EvenTuples.cpp",
+		"/D/April2021CODE/__CP/VKCup.cpp",
+		"/D/April2021CODE/__CP/CP_Temp_JULY21.cpp",
+		"/D/April2021CODE/__CP/Blogs/CeilAlternatives_Blog.cpp",
+		"/D/April2021CODE/__CP/Blogs/STL_Blog.cpp",
+		"/C/Users/HOME/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-settings",
+		"/C/Users/HOME/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build",
+		"/C/Users/HOME/AppData/Roaming/Sublime Text 3/Packages/User/C++17.sublime-build",
+		"/C/Users/HOME/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-settings",
+		"/D/April2021CODE/__CP/PVINP.cpp",
+		"/D/April2021CODE/__CP/B_MaxCostDeletion.cpp",
+		"/D/April2021CODE/Pending_Programs_for_Future/CodeChef_Maximum_AprilStarters4.cpp",
+		"/D/April2021CODE/NumberTheory/2_PrimeFactorisation.cpp",
+		"/D/April2021CODE/__CP/CF_Pending.cpp",
+		"/D/April2021CODE/__CP/DP2_DSA_MinStepto1.cpp",
+		"/D/April2021CODE/__CP/DP2_StairVariableJumps.cpp",
+		"/D/April2021CODE/__CP/Mock.c",
+		"/D/April2021CODE/__CP/JulyChallenge2021.cpp",
+		"/D/April2021CODE/__CP/LinkedList.cpp",
+		"/D/April2021CODE/__CP/C_SumOfCubes.cpp",
+		"/D/April2021CODE/__CP/DP2_DSA_MinSquareSum.cpp",
+		"/D/April2021CODE/__CP/CodeHub.cpp",
+		"/D/April2021CODE/__CP/C_LongJumps_DP.cpp",
+		"/D/April2021CODE/__CP/C_ABC208_FairCandyDistribution.cpp",
+		"/D/April2021CODE/__CP/COde_Pirates.cpp",
+		"/D/April2021CODE/__CP/C_ABPalindrome.cpp",
+		"/D/April2021CODE/__CP/_715B_TMTDocument.cpp",
+		"/D/April2021CODE/__CP/1GEU.cpp",
+		"/D/April2021CODE/__CP/B_PartialReplacement.cpp",
+		"/D/April2021CODE/__CP/DP2_DiceCombinations.cpp",
+		"/D/April2021CODE/__CP/DP2_StairPath.cpp",
+		"/D/April2021CODE/__CP/TOUR_DFS.exe",
+		"/D/April2021CODE/__CP/TOUR_DFS.cpp",
+		"/D/April2021CODE/__CP/C_LittleAlawnsPuzzle_GraphDFS.cpp",
+		"/D/April2021CODE/__CP/CF.cpp",
+		"/D/April2021CODE/__CP/B_PrinzessinDerVerurteilung_724.cpp",
+		"/D/April2021CODE/__CP/K_KingsTask.cpp",
+		"/D/April2021CODE/__CP/C_YetAnotherDeckOfCards.cpp",
+		"/D/April2021CODE/__CP/MaximumSumSubarray_KadanesAlgorithm.cpp",
+		"/D/April2021CODE/__CP/A_LoveSong_PREFIXSUM.cpp",
+		"/D/April2021CODE/__CP/AtC2.cpp",
+		"/D/April2021CODE/__CP/CodeChef2.cpp",
+		"/D/April2021CODE/__CP/DP1_Fibo.cpp",
+		"/D/April2021CODE/__CP/A_ColorTheFlag.cpp",
+		"/D/April2021CODE/__CP/D_SameDifference.cpp",
+		"/D/April2021CODE/__CP/B_MorningJogging,cpp.cpp",
+		"/D/April2021CODE/__CP/PalindromeString.cpp",
+		"/D/April2021CODE/__CP/TheLastProblem_COOKOFF.cpp",
+		"/D/April2021CODE/__CP/OmkarANdBadStory.cpp",
+		"/D/April2021CODE/__CP/PotionMaking.cpp",
+		"/D/April2021CODE/__CP/CodeForces2.cpp",
+		"/D/April2021CODE/__CP/GameOfLife.cpp",
+		"/D/April2021CODE/__CP/Vaccine3.cpp",
+		"/D/April2021CODE/__CP/720B_NastiaAndGoodArray.cpp",
+		"/D/April2021CODE/__CP/AntiKnapsack.cpp",
+		"/D/April2021CODE/__CP/FriendsAndCandles.cpp",
+		"/D/April2021CODE/__CP/FlipGame.cpp",
+		"/D/April2021CODE/__CP/StrangeTable.cpp",
+		"/D/April2021CODE/__CP/Blogs/CeilAlternatives.cpp",
+		"/D/April2021CODE/__CP/IsItRated2.cpp",
+		"/D/April2021CODE/__CP/NapoleanCake.cpp",
+		"/D/April2021CODE/__CP/Alexy_AND_Train.cpp",
+		"/D/April2021CODE/__CP/FoxAndSnake.cpp",
+		"/D/April2021CODE/__CP/CodeForces/330A_Cakeminator.cpp",
+		"/D/April2021CODE/__CP/CodeForces/outputf.in",
+		"/D/April2021CODE/__CP/CodeForces/inputf.in",
+		"/D/April2021CODE/__CP/CodeForces/710C_DoubleEndedStrings.cpp",
+		"/D/April2021CODE/__CP/CodeForces/B_PermutationSort.cpp",
+		"/D/April2021CODE/__CP/CodeForces/443A_AntonAndLetters.cpp",
+		"/D/April2021CODE/__CP/CodeForces/110B_ArrayReordering.cpp",
+		"/D/April2021CODE/C++/#DSA/10.HashMaps/4_CodingNinjasMapsImplementation.cpp",
+		"/D/April2021CODE/__CP/_ModuloEqn.cpp",
+		"/D/April2021CODE/__CP/_InterestingSequence.cpp"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								184
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/HOME/Desktop/BETA/Project_Beta.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								542
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 211.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/HOME/Desktop/BETA/Delete.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "about.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 312.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "development.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			],
+			[
+				"cpp",
+				"C:\\Users\\HOME\\Desktop\\GraphicsPro.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

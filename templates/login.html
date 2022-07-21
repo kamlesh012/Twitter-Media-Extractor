@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Login</title>
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Sacramento&display=swap" rel="stylesheet"> 
+</head>
+
+<body background="static/LightTwitter.jpg">
+    
+    <img src="{{ url_for('static', filename='LOGO.png') }}">
+    <h1>Welcome to Twitter Media Extractor</h1>
+<form action="http://127.0.0.1:5000/login" method="POST" >
+    <!-- <label for="nm">Name</label> -->
+    <h2>Enter Hashtag to search for below:</h2>
+    <input type="text" name="nm">
+    <input type="submit"  value="submit">
+
+</form>
+</body>
+</html>

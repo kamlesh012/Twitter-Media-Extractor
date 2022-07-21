@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Media Extractor</title>
+	<link type="text/css"  rel="stylesheet"  href="{{ url_for('static', filename='css/style.css') }}" />
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Sacramento&display=swap" rel="stylesheet"> 
+</head>	
+<body background="static/LightTwitter.jpg">
+	<h1>Welcome To Twitter Media Extractor</h1>
+	{% for i in sent %}
+					<img id="123" src="{{i}}" alt="Image from Twitter">
+	{% endfor %}
+	<p>By- Kamlesh Singh Bisht</p>
+</body>
+</html>
